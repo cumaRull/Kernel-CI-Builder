@@ -1,7 +1,7 @@
 #INFORMATION KERNEL
-link_kernel=https://github.com/Rem01Gaming/liquid_kernel_realme_even
-name_zip=Liquid-318-even
-local_version=-liquidfy😍
+link_kernel=https://github.com/cumaRull/m127f-T-u4
+name_zip=M127f-Kernel
+local_version=-m127f-Kernels
 kbuild_user=ismasrull
 kbuild_host=AndroidTermux
 device_name=<b>realme C25/C25s</b> (even)
