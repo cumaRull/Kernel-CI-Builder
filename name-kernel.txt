@@ -2,7 +2,7 @@
 link_kernel=https://github.com/Rem01Gaming/kernel_oplus_even.git
 name_zip=Kernel-Oplus
 local_version=-Realme-C25Kernels
-kbuild_user=ismasrull
+kbuild_user=ismasrull⚡
 kbuild_host=AndroidTermux
 device_name=<b>realme C25/C25s</b> (even)
 vendor_name=RUI2
