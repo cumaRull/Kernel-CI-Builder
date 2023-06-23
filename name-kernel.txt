@@ -1,14 +1,14 @@
 #INFORMATION KERNEL
-link_kernel=https://github.com/cumaRull/m127f-T-u4
-name_zip=M127f-Kernel
-local_version=-m127f-Kernels
+link_kernel=https://github.com/Rem01Gaming/kernel_oplus_even.git
+name_zip=Kernel-Oplus
+local_version=-Realme-C25Kernels
 kbuild_user=ismasrull
 kbuild_host=AndroidTermux
 device_name=<b>realme C25/C25s</b> (even)
 vendor_name=RUI2
 
 #OPTION FOR COMPILER
-defconfig_name=even_slmk_defconfig
+defconfig_name=even_defconfig
   #just for incase for slmk
 
 
