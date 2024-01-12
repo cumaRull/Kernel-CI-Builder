@@ -1,6 +1,6 @@
 #INFORMATION KERNEL
 link_kernel=https://github.com/liquidprjkt/liquid_kernel_realme_even.git
-name_zip=liquid
+name_zip=liquid-evenn
 local_version=-🌀
 kbuild_user=ismasrull
 kbuild_host=Android
