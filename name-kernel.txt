@@ -9,7 +9,7 @@ vendor_name=even
 
 #OPTION FOR COMPILER
 defconfig_name=even_defconfig
-  #just for incase for slmk
+  
 
 #INFORMATION LINK COMPILER
 link_gcc_aarch64=https://github.com/EternalX-project/aarch64-linux-gnu.git
