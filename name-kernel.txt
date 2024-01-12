@@ -1,14 +1,14 @@
 #INFORMATION KERNEL
-link_kernel=https://github.com/Rem01Gaming/kernel_oplus_even.git
-name_zip=Kernel-Oplus
+link_kernel=https://github.com/cumaRull/realme_C25_C25s_narzo-50A-AndroidT-kernel-source.git
+name_zip=Kernel-Rui4
 local_version=-Realme-C25Kernels
 kbuild_user=ismasrull
-kbuild_host=AndroidTermux
+kbuild_host=ismasrull 
 device_name=<b>realme C25/C25s</b> (even)
-vendor_name=RUI2
+vendor_name=RUI4
 
 #OPTION FOR COMPILER
-defconfig_name=even_defconfig
+defconfig_name=gki_defconfig
   #just for incase for slmk
 
 #INFORMATION LINK COMPILER
