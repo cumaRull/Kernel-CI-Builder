@@ -5,7 +5,7 @@ local_version=-Even
 kbuild_user=ismasrull
 kbuild_host=Android
 device_name=<b>realme C25/C25s</b> (even)
-vendor_name=even
+vendor_name=evenT
 
 #OPTION FOR COMPILER
 defconfig_name=gki_defconfig
