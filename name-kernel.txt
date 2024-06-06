@@ -4,7 +4,7 @@ name_zip=evenT
 local_version=-Even
 kbuild_user=ismasrull
 kbuild_host=Trident-Co
-device_name=<b>realme C25/C25s</b> (even)
+device_name=<b>realme C25</b> (even)
 vendor_name=evenTs
 
 #OPTION FOR COMPILER
