@@ -3,7 +3,7 @@ link_kernel=https://github.com/yuzumi86/kernel_realme_even.git -b OSS-R
 name_zip=evenT
 local_version=-Even
 kbuild_user=ismasrull
-kbuild_host=Android
+kbuild_host=Trident-Co
 device_name=<b>realme C25/C25s</b> (even)
 vendor_name=evenTs
 
