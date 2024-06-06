@@ -1,18 +1,18 @@
 #INFORMATION KERNEL
-link_kernel=https://github.com/cumaRull/realme_C25_C25s_narzo-50A-AndroidT-kernel-source.git
+link_kernel=https://github.com/yuzumi86/kernel_realme_even.git -b OSS-R
 name_zip=evenT
 local_version=-Even
 kbuild_user=ismasrull
-kbuild_host=Android
-device_name=<b>realme C25/C25s</b> (even)
+kbuild_host=Trident-Co
+device_name=<b>realme C25</b> (even)
 vendor_name=evenTs
 
 #OPTION FOR COMPILER
-defconfig_name=gki_defconfig
+defconfig_name=even_defconfig
   
 
 #INFORMATION LINK COMPILER
 link_gcc_aarch64=https://github.com/EternalX-project/aarch64-linux-gnu.git
 link_gcc_arm=https://github.com/EternalX-project/arm-linux-gnueabi.git
-link_clang=https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+/refs/tags/android-11.0.0_r3/clang-r383902.git
+link_clang=https://github.com/kdrag0n/proton-clang.git
 link_anykernel=https://github.com/TheUnknownName/AnyKernel3.git -b even-liq
